@@ -1,1 +1,4 @@
-Svelte Template with ENV Support using @rollup/plugin-replace and Bulma CSS
+Svelte Template with 
+- ENV Support using @rollup/plugin-replace
+- Bulma CSS
+- Svelte SPA Router
